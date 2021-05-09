@@ -1,3 +1,3 @@
 <script type="text/javascript">
-console.log("Hello");
+	console.log("Hello");
 </script>
